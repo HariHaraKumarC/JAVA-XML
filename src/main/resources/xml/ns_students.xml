@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<std:students xmlns:std="http://www.w3.org/students">
+  <!-- Contains the list of students -->
+  <std:student id="1">
+    <std:name>HariHaraKumar.C</std:name>
+    <std:age>27</std:age>
+    <std:dob>12-07-1990</std:dob>
+    <std:about><![CDATA[Punctual,Determined Guy]]></std:about>
+  </std:student>
+  <std:student id="2">
+    <std:name>KumbaKumar.C</std:name>
+    <std:age>25</std:age>
+    <std:dob>12-07-1992</std:dob>
+    <std:about><![CDATA[Business Minded Guy]]></std:about>
+  </std:student>
+  <std:student id="3">
+    <std:name>SenthilKumar.C</std:name>
+    <std:age>18</std:age>
+    <std:dob>12-07-1999</std:dob>
+    <std:about><![CDATA[Silent Guy]]></std:about>
+  </std:student>
+  <std:student id="4">
+    <std:name>Hari.C</std:name>
+    <std:age>27</std:age>
+    <std:dob>12-07-1990</std:dob>
+    <std:about><![CDATA[Lovable Guy]]></std:about>
+  </std:student>
+  <std:student id="5">
+    <std:name>Kumban.C</std:name>
+    <std:age>22</std:age>
+    <std:dob>12-07-1995</std:dob>
+    <std:about><![CDATA[Sexy Guy]]></std:about>
+  </std:student>
+</std:students>

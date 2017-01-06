@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+  <student id="1">
+    <name>HariHaraKumar.C</name>
+    <age>27</age>
+    <dob>12-07-1990</dob>
+    <about><![CDATA[Punctual,Determined Guy]]></about>
+  </student>
+  <student id="2">
+    <name>KumbaKumar.C</name>
+    <age>25</age>
+    <dob>12-07-1992</dob>
+    <about><![CDATA[Business Minded Guy]]></about>
+  </student>
+  <student id="3">
+    <name>SenthilKumar.C</name>
+    <age>18</age>
+    <dob>12-07-1999</dob>
+    <about><![CDATA[Silent Guy]]></about>
+  </student>
+  <student id="4">
+    <name>Hari.C</name>
+    <age>27</age>
+    <dob>12-07-1990</dob>
+    <about><![CDATA[Lovable Guy]]></about>
+  </student>
+  <student id="5">
+    <name>Kumban.C</name>
+    <age>22</age>
+    <dob>12-07-1995</dob>
+    <about><![CDATA[Sexy Guy]]></about>
+  </student>
+</students>

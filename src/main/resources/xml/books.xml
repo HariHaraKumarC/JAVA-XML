@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <!-- Contains the list of students -->
+  <book id="1">
+    <name>Ponniyan Selvan</name>
+    <author>Kalki</author>
+    <language>Tamil</language>
+    <publisher>Vanathi Padipakam</publisher>
+    <dop>2012-12-12T00:00:00</dop>
+    <vop>12</vop>
+    <about><![CDATA[Historical Novel]]></about>
+  </book>
+  <book id="2">
+    <name>Kadal Pura</name>
+    <author>Saandaliyan</author>
+    <language>Tamil</language>
+    <publisher>Vanathi Padipakam</publisher>
+    <dop>2011-10-12T00:00:00</dop>
+    <vop>5</vop>
+    <about><![CDATA[Historical Novel]]></about>
+  </book>
+  <book id="3">
+    <name>Manavaasam</name>
+    <author>Kannadasan</author>
+    <language>Tamil</language>
+    <publisher>Kannadasan Padipakam</publisher>
+    <dop>1999-10-12T00:00:00</dop>
+    <vop>5</vop>
+    <about><![CDATA[Auto Biography]]></about>
+  </book>
+  <book id="4">
+    <name>Vanavaasam</name>
+    <author>Kannadasan</author>
+    <language>Tamil</language>
+    <publisher>Kannadasan Padipakam</publisher>
+    <dop>1999-10-12T00:00:00</dop>
+    <vop>5</vop>
+    <about><![CDATA[Auto Biography]]></about>
+  </book>
+  <book id="5">
+    <name>Jaala Deepam</name>
+    <author>Saandaliyan</author>
+    <language>Tamil</language>
+    <publisher>Vanathi Padipakam</publisher>
+    <dop>2011-8-12T00:00:00</dop>
+    <vop>6</vop>
+    <about><![CDATA[Historical Novel]]></about>
+  </book>
+</books>
